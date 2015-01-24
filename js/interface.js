@@ -1,0 +1,1 @@
+var javabuzz = new Javabuzz();

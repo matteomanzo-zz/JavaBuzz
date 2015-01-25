@@ -13,17 +13,28 @@ body {
 }
 
 #upper {
-  font-size: 5em;
-  text-align: center;
-  font-family: futura;
   height: 50%;
   background-color: #e67e22;
 }
 
 #lower {
-  font-size: 5em;
-  text-align: center;
-  font-family: futura;
   height: 50%;
   background-color: #f1c40f;
+}
+
+#fizz {
+  padding: 11%;
+  font-size: 8em;
+  text-align: center;
+  font-family: futura;
+  color: #16a085;
+  margin-right: 18%;
+}
+
+#buzz {
+  font-size: 8em;
+  text-align: center;
+  font-family: futura;
+  color: #c0392b;
+  margin-left: 18%;
 }
